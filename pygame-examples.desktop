@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pygame Examples
+Comment=From http://www.pygame.org/docs/ref/examples.html
+Exec=/home/pi/pygame_examples/launcher.sh
+Icon=/usr/share/pixmaps/python.xpm
+Terminal=false
+Type=Application
+Categories=Application;Games;Development;
+StartupNotify=true
